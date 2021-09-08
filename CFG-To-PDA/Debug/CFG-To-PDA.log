@@ -1,0 +1,6 @@
+﻿  CFG-To-PDA.cpp
+D:\University\term7\هوش مصنوعی\AI PROJECTS\14 puzzle with grapg search\CFG-To-PDA\CFG-To-PDA\CFG-To-PDA.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+D:\University\term7\هوش مصنوعی\AI PROJECTS\14 puzzle with grapg search\CFG-To-PDA\CFG-To-PDA\CFG-To-PDA.cpp(84,31): warning C4018: '<': signed/unsigned mismatch
+D:\University\term7\هوش مصنوعی\AI PROJECTS\14 puzzle with grapg search\CFG-To-PDA\CFG-To-PDA\CFG-To-PDA.cpp(118,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\University\term7\هوش مصنوعی\AI PROJECTS\14 puzzle with grapg search\CFG-To-PDA\CFG-To-PDA\CFG-To-PDA.cpp(138,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\University\term7\هوش مصنوعی\AI PROJECTS\14 puzzle with grapg search\CFG-To-PDA\CFG-To-PDA\CFG-To-PDA.cpp(120,10): warning C4101: 'filename': unreferenced local variable
